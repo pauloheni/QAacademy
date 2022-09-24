@@ -3,10 +3,7 @@ package exemplos;
 public class MetodosSemMain {
 
     //        um void / com return / com parametro
-
-//        INICIO DO METODO COM VOID
-
-
+    //        INICIO DO METODO COM VOID
 
     public void metodoComVoid(){
         System.out.println("Primeiro teste sem Void");

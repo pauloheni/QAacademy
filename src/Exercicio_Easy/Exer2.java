@@ -12,14 +12,21 @@ package Exercicio_Easy;
 
 
 public class Exer2 {
-    public static void main(String[] args) {
+//    public static void main(String[] args) {
+//
+//        String palavra;
+//        //palavra = JOptionPane.showInputDialog("Digite sua palavra aqui");
+//        palavra = "Floresta";
+//        System.out.println("A palavra é: " + palavra);
+//
+//    }
 
-        String palavra;
-        //palavra = JOptionPane.showInputDialog("Digite sua palavra aqui");
-        palavra = "Floresta";
-        System.out.println("A palavra é: " + palavra);
+    //SEM O MÉTODO MAIN - EXECUTANDO EM Exercicos_2
+        public String palavra (){
+            return "Floresta";
+        }
 
-    }
+
 }
 
 

@@ -27,7 +27,7 @@ public class Exer3 {
 //        System.out.println("Seu nome é: " + varNome + " "+ varSobrenome);
 
         public String dificil (String varNome, String varSobrenome){
-            return varNome + varSobrenome;
+            return varSobrenome + varNome;
 
         }
 

@@ -9,8 +9,8 @@ import ExercicoMedio.ExerMedio1;
 import java.sql.SQLOutput;
 
 //EXERC 2
-public class Exercicos_2 {
-
+//public class Exercicos_2 {
+//
 //    public static void main(String[] args) {
 //
 //        Exer2 exer2 = new Exer2();
@@ -44,12 +44,12 @@ public class Exercicos_2 {
 //    }
 
     //EXERC 6 easy
-        public static void main(String[] args) {
-            ExerMedio1 exerMedio1 = new ExerMedio1();
-            System.out.println(exerMedio1.exibirParImpar(););
+//        public static void main(String[] args) {
+//            ExerMedio1 exerMedio1 = new ExerMedio1();
+//            System.out.println(exerMedio1.exibirParImpar();;
 
 
 
-}
+//}
 
-}
+
